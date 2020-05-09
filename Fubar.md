@@ -28,7 +28,13 @@ Store.prototype.randCustomers = function () {
     Math.random() * (this.maxCust - this.minCust) + this.minCust
   );
 };
-
+asfdasfasdfasdf.kjbasf.kjbasd.kfjbas.dkjfbas,bdjf.,dj
+asfdasfasdfasdf.kjbasf.kjbasd.kfjbas.dkjfbas,bdjf.,dj
+asfdasfasdfasdf.kjbasf.kjbasd.kfjbas.dkjfbas,bdjf.,dj
+asfdasfasdfasdf.kjbasf.kjbasd.kfjbas.dkjfbas,bdjf.,dj
+asfdasfasdfasdf.kjbasf.kjbasd.kfjbas.dkjfbas,bdjf.,dj
+asfdasfasdfasdf.kjbasf.kjbasd.kfjbas.dkjfbas,bdjf.,dj
+asfdasfasdfasdf.kjbasf.kjbasd.kfjbas.dkjfbas,bdjf.,dj
 Store.prototype.totalSales = function () {
   if (this.cookieSalesPerHour.length === 0) {
     for (var i = 0; i < storeHoursOpen.length; i++) {
